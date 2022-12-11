@@ -1,2 +1,1 @@
-# rsschool-cv
-## https://PetrovKR.github.io/rsschool-cv/cv
+https://PetrovKR.github.io/rsschool-cv/cv
